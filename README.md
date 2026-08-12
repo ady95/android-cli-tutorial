@@ -10,6 +10,7 @@
 |---|---|---|
 | `01-hello-android` | 안드로이드 스튜디오 없이 만든 최소 구성 Hello Android 앱 | 03장 |
 | `02-counter-app` | Claude Code가 생성·수정한 카운터 앱 (에이전트 실습 결과물) | 03-5, 05장 |
+| `03-compose-counter` | Jetpack Compose로 만든 카운터 앱 | 06장 |
 
 ## 빌드 방법
 
