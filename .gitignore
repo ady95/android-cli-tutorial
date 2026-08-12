@@ -1,0 +1,9 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+*.apk
+*.aab
+*.keystore
+.DS_Store
+Thumbs.db
