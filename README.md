@@ -14,6 +14,9 @@
 | `04-counter-datastore` | DataStore로 값이 유지되는 카운터 앱 | 07-1 |
 | `05-notes-room` | Room 데이터베이스 메모 앱 | 07-2 |
 | `06-api-list` | Retrofit으로 API 목록을 표시하는 앱 | 07-3, 07-4 |
+| `07-todo-app` | 할 일 관리 앱 (Room CRUD + Compose 종합) | 10-1 |
+| `08-weather-app` | 날씨 앱 (Open-Meteo API) | 10-2 |
+| `09-dice-app` | 기획서(PLAN.md)로 Claude Code가 전체 생성한 주사위 앱 | 10-3 |
 
 ## 빌드 방법
 
