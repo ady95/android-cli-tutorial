@@ -45,7 +45,7 @@ class MainActivity : ComponentActivity() {
 fun PostListScreen() {
     var state by remember { mutableStateOf<UiState>(UiState.Loading) }
 
-    // 화면이 처음 만들어질 때 한 번만 실행되는 부수 효과
+    // 이 컴포저블이 컴포지션에 들어올 때 실행되는 부수 효과
     LaunchedEffect(Unit) {
         state = try {
             UiState.Success(ApiClient.postApi.getPosts())
